@@ -1,0 +1,3150 @@
+{ "quotes" : [
+    {
+        "text"   : "I must speak to you by such means as are within my reach. You pierce my soul. I am half agony, half hope.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "How quick come the reasons for approving what we like.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Give him a book, and he will read all day long.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "I do not think I ever opened a book in my life which had not something to say upon woman's inconstancy.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "If there is anything disagreeable going on, men are always sure to get out of it.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "His cold politeness, his ceremonious grace, were worse than anything.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "I offer myself to you again with a heart even more your own than when you almost broke it, eight years and a half ago.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Lady Russell, indeed, had scarcely any influence with Elizabeth, and seemed to love her, rather because she would love her, than because Elizabeth deserved it.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Tell me not that I am too late, that such precious feelings are gone forever.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "He was rich, and being turned on shore, fully intended to settle as soon as he could be properly tempted; actually looking round, ready to fall in love with all the speed which a clear head and a quick taste could allow.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "They were more in love with him; yet there it was not love. It was a little fever of admiration; but it might, probably must, end in love with some.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "If I loved a man, as she loves the Admiral, I would always be with him, nothing should ever separate us.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "I love your indignation.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "A man does not recover from such a devotion of the heart to such a woman! He ought not; he does not.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "I quite agree that we love her the better for having nursed her.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Well might Charles wonder how Captain Wentworth would feel! Perhaps he had quitted the field, had given Louisa up, had ceased to love, had found he did not love her.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "He had an affectionate heart. He must love somebody.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "When pain is over, the remembrance of it often becomes a pleasure.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Like other great men under reverses, I must endeavor to subdue my mind to my fortune. I must learn to brook being happier than I deserve.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "His good looks and his rank had one fair claim on his attachment; since to them he must have owed a wife of very superior character to anything deserved by his own.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Anne hoped she had outlived the age of blushing; but the age of emotion she certainly had not.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Her pleasure in the walk must arise from the exercise and the day, from the view of the last smiles of the year upon the tawny leaves and withered hedges, and from repeating to herself some few of the thousand poetical descriptions extant of autumn.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "One man's ways may be as good as another's, but we all like our own best.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Now they were as strangers; worse than strangers, for they could never become acquainted.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "That season of peculiar and inexhaustible influence on the mind of taste and tenderness.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Vanity was the beginning and the end of Sir Walter Elliot’s character; vanity of person and of situation.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "I would rather be overturned by him, than driven safely by anybody else.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "She learned romance as she grew older: the natural sequel of an unnatural beginning.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Dare not say that man forgets sooner than woman, that his love has an earlier death.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "When I have made up my mind, I have made it.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Her word had no weight; her convenience was always to give way.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "I am not fond of the idea of my shrubberies being always approachable.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "There is hardly any personal defect which an agreeable manner might not gradually reconcile one to.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "We certainly do not forget you, so soon as you forget us. It is, perhaps, our fate rather than our merit. We cannot help ourselves.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "She gloried in being a sailor’s wife, but she must pay the tax of quick alarm for belonging to that profession which is, if possible, more distinguished in its domestic virtues than in its national importance.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "She considered it as an act of indispensable duty to clear away the claims of creditors with all the expedition which the most comprehensive retrenchments could secure, and saw no dignity in anything short of it.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "My idea of good company, Mr Elliot, is the company of clever, well-informed people, who have a great deal of conversation; that is what I call good company.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "One does not love a place the less for having suffered in it unless it has been all suffering, nothing but suffering.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "I walk: I prefer walking.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "She hoped to be wise and reasonable in time; but alas! Alas! She must confess to herself that she was not wise yet.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "All the privilege I claim for my own sex (it is not a very enviable one: you need not covet it), is that of loving longest when existence or when hope is gone!",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Her attachment and regrets had, for a long time, clouded every enjoyment of youth, and an early loss of bloom and spirits had been their lasting effect.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Facts or opinions which are to pass through the hands of so many, to be misconceived by folly in one, and ignorance in another, can hardly have much truth left.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Warmth and enthusiasm did captivate her still.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Do you think that any consideration would tempt me to accept the man who has been the means of ruining, perhaps for ever, the happiness of a most beloved sister?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I am only resolved to act in that manner, which will, in my own opinion, constitute my happiness, without reference to you, or to any person so wholly unconnected with me.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "He was the proudest, most disagreeable man in the world, and everybody hoped that he would never come there again.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I have not the pleasure of understanding you.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Till this moment I never knew myself.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I certainly have not the talent which some people possess, of conversing easily with those I have never seen before.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "What are men to rocks and mountains?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Everything nourishes what is strong already." ,
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Every impulse of feeling should be guided by reason; and, in my opinion, exertion should always be in proportion to what is required." ,
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You are too generous to trifle with me. If your feelings are still what they were last April, tell me so at once. My affections and wishes are unchanged, but one word from you will silence me on this subject forever.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "I am the happiest creature in the world. Perhaps other people have said so before, but not one with such justice.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "She only smiles, I laugh.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Have a little compassion on my nerves. You tear them to pieces.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "I think I have heard you say, that their uncle is an attorney in Meryton.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "I have faults enough, but they are not, I hope, of understanding. My temper I dare not vouch for. It is, I believe, too little yielding— certainly too little for the convenience of the world.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "But there are very few of us who have heart enough to be really in love without encouragement.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Had I been in love, I could not have been more wretchedly blind. But vanity, not love, has been my folly.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Darcy had never been so bewitched by any woman as he was by her.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Your mother will never see you again if you do not marry Mr Collins and I will never see you again if you do.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Only the deepest love will persuade me into matrimony, which is why I shall end up an old maid.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "We are all fools in love.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "My good opinion once lost is lost forever.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I must learn to be content with being happier than I deserve.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "Her heart did whisper that he had done it for her.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "You must learn some of my philosophy. Think only of the past as its remembrance gives you pleasure.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "We all know him to be a proud, unpleasant sort of man; but this would be nothing if you really liked him.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "By you, I was properly humbled.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "I am excessively diverted.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "Follies and nonsense, whims, and inconsistencies do divert me, I own, and I laugh at them whenever I can.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "She was convinced that she could have been happy with him when it was no longer likely they should meet.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "\"Now be sincere; did you admire me for my impertinence?\" -- \"For the liveliness of your mind, I did.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "Do not consider me now as an elegant female intending to plague you, but as a rational creature speaking the truth from her heart.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "I have been used to considering poetry as the food of love.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "You expect me to account for opinions which you choose to call mine, but which I have never acknowledged.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "It is particularly incumbent on those who never change their opinion, to be secure of judging properly at first.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "She attracted him more than he liked.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "It sometimes is a disadvantage to be so very guarded. If a woman conceals her affection from the object of it, she may lose the opportunity of fixing him.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "The power of doing anything with quickness is always much prized by the possessor, and often without any attention to the imperfection of the performance.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "There certainly was some great mismanagement in the education of those two young men. One has got all the goodness, and the other all the appearance of it.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "The wisest and the best of men, nay, the wisest and best of their actions, maybe rendered ridiculous by a person whose first object in life is a joke.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "Pride is a very common failing....that human nature is particularly prone to it, and that there are very few of us who do not cherish a feeling of self-complacency on the score of some quality or other, real or imaginary.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "\"I often think,\" she said, \"that there is nothing so bad as parting with one's friends. One seems to be forlorn without them.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "One may be continually abusive without saying anything just; but one cannot be always laughing at a man without now and then stumbling on something witty.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "I should infinitely prefer a book.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "We can all begin freely—a slight preference is natural enough, but there are very few of us who have heart enough to be really in love without encouragement.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "Happiness in marriage is entirely a matter of chance.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "How little of permanent happiness could belong to a couple who were only brought together because their passions were stronger than their virtue." ,
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "It is always incomprehensible to a man that a woman should ever refuse an offer of marriage. A man always imagines a woman to be ready for anybody who asks her.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "Oh, Lizzy! Do anything rather than marry without affection.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "They always continue to grow sufficiently unlike afterward to have their share of vexation, and it is better to know as little as possible of the defects of the person with whom you are to pass your life.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "The most incomprehensible thing in the world to a man, is a woman who rejects his offer of marriage!",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "The wisest and the best of men, nay, the wisest and best of their actions, may be rendered ridiculous by a person whose first object in life is a joke.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I am astonished, my dear... that you should be so ready to think your own children silly.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "A slight preference is natural enough; but there are very few of us who have heart enough to be really in love without encouragement.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "A woman is not to marry a man merely because she is asked, or because he is attached to her, and can write a tolerable letter.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Marriage is indeed a maneuvering business.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises at every attempt to intimidate me.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Could there be finer symptoms? Is not general incivility the very essence of love?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "They walked on, without knowing in what direction. There was too much to be thought, and felt, and said, for attention to any other objects.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "I am happier than Jane; she only smiles, I laugh. Mr Darcy sends you all the love in the world, that he can spare from me.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I have been a selfish being all my life, in practise, though not in principle... I was given good principles, but left to follow them in pride and conceit." ,
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Next to being married, a girl likes to be crossed a little in love now and then. It is something to think of, and it gives her a sort of distinction among her companions.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "But people themselves alter so much, that there is something new to be observed in them forever.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "\"If they had uncles enough to fill all Cheapside,\" cried Bingley, \"it would not make them one jot less agreeable.\" -- \"But it must very materially lessen their chance of marrying men of any consideration in the world,\" replied Darcy.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "She had a lively, playful disposition that delighted in anything ridiculous.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejuidice"
+    },
+    {
+        "text"   : "If I had ever learnt, I should have been a great proficient." ,
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "There is, I believe, in every disposition a tendency to some particular evil—a natural defect, which not even the best education can overcome.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Have you any other objection than your belief of my indifference?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "If I were not afraid of judging harshly, I should be almost tempted to say that there is a strong appearance of duplicity in all this.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Can I be happy, even supposing the best, in accepting a man whose sisters and friends are all wishing him to marry elsewhere?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "When I went away, I am sure I had no more idea of being married till I came back again - though I thought it would be very good fun if I was.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Vanity, not love, has been my folly.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Your arrogance, your conceit, and your selfish distain of the feelings of others, were such as to form the groundwork of the disapprobation on which succeeding events have built so immovable a dislike.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I always said it must be so, at last. I was sure you could not be so beautiful for nothing!",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Angry people are not always wise.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You may ask questions which I shall not choose to answer.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Laugh as much as you choose, but you will not laugh me out of my opinion.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Vanity and pride are different things, though the words are often used synonymously. A person may be proud without being vain. Pride relates more to our opinion of ourselves, vanity to what we would have others think of us.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "She hardly knew how to suppose that she could be an object of admiration to so great a man.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "In nine cases out of ten, a woman had better show more affection than she feels.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "If a woman is partial to a man, and does not endeavour to conceal it, he must find it out.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I am determined that only the deepest love will induce me into matrimony. So, I shall end an old maid, and teach your ten children to embroider cushions and play their instruments very ill.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Their eyes instantly met, and the cheeks of both were overspread with the deepest blush.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "What are men to rocks and mountains?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I can't help thinking that at some point someone is going to produce a piglet and we'll all have to chase it.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "They arise chiefly from what is passing of the time. And though I do sometimes amuse myself with arranging such little elegant compliments, I always wish to give them as unstudied an air as possible.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Do not make yourself unhappy. If you are a good girl for the next ten years, I will take you to a review at the end of them.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "When I have a house of my own, I shall be miserable if I have not an excellent library.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Compliments always take you by surprise, and me never.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "How much sooner one tires of anything than of a book!",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I declare after all there is no enjoyment like reading!",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "For what do we live, but to make sport for our neighbors, and laugh at them in our turn?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Follies and nonsense, whims and inconsistencies, do divert me, I own, and I laugh at them whenever I can.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "One cannot be always laughing at a man without now and then stumbling on something witty.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I could easily forgive his pride, if he had not mortified mine.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "From the first moment I met you, your arrogance and conceit, your selfish disdain for the feelings of others, made me realize that you were the last man in the world I could ever be prevailed upon to marry.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I am no longer surprised at your knowing only six accomplished women. I rather wonder now at your knowing any.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "The distance is nothing when one has motive.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Think only of the past as its remembrance gives you pleasure.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "If she is really headstrong and foolish, I know not whether she would altogether be a very desirable wife to a man in my situation, who naturally looks for happiness in the marriage state.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "It will be no use to us if twenty such should come since you will not visit them.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "He is a gentleman, and I am a gentleman’s daughter. So far we are equal.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "When she is secure of him, there will be leisure for falling in love as much as she chooses.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Miss Bennet, I am shocked and astonished. I expected to find a more reasonable young woman. But do not deceive yourself into a belief that I will ever recede. I shall not go away till you have given me the assurance I require.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "\"All this she must possess,\" added Darcy, \"and to all this, she must yet add something more substantial, in the improvement of her mind by extensive reading.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Yes, vanity is a weakness indeed. But pride—where there is a real superiority of mind, pride will be always under good regulation.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I think you are in very great danger of making him as much in love with you as ever.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You showed me how insufficient were all my pretensions to please a woman worthy of being pleased.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I was given good principles, but left to follow them in pride and conceit.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I am well enough acquainted with you, Miss Elizabeth, to know that I can not alarm you, even should I wish it.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I remember hearing you once say, Mr Darcy, that you hardly ever forgave, that your resentment once created was unappeasable. You are very cautious, I suppose, as to its being created.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I am happier even than Jane; she only smiles, I laugh. Mr Darcy sends you all the love in the world that he can spare from me.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You are perfectly right. You have employed your time much better. No one admitted to the privilege of hearing you can think anything wanting. We neither of us perform to strangers.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Are you too proud Mr Darcy? And would you consider pride a fault or a virtue?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Men of sense do not want silly wives.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Wait. Miss Elizabeth is coming my way.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "She came over to speak to me, Bingley. I couldn't avoid her.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Not at all, Miss Bennet. I only meant that the subject of dancing always adds a sparkle to a young lady's eyes.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "My affections and wishes are unchanged; but one word from you will silence me on this subject for ever.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "A man who had felt less, might.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "When left alone with her, I ignored her and kept my eyes on my book, though I confess I turned over more pages than I read.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "In vain have I struggled. It will not do. My feelings will not be repressed.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "A lady’s imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I love you. Most ardently.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Your defect is a propensity to hate everybody.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I smiled, knowing that Elizabeth, even in the worst of her humor, was far better suited to my own disposition.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "She would scold me, quarrel with me, torment me, tease me and laugh at me as often as may be. I was the happiest man in the world.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   :  "I cannot forget the follies and vices of other so soon as I ought, nor their offenses against myself.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   :  "My feelings are not puffed about with every attempt to move them. My temper would perhaps be called resentful. My good opinion once lost, is lost forever.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I cannot fix on the hour, or the spot, or the look, or the words, which laid the foundation. It is too long ago. I was in the middle before I knew that I had begun.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You are mistaken, Mr Darcy, if you suppose that the mode of your declaration affected me in any other way, than as it spared the concern which I might have felt in refusing you, had you behaved in a more gentlemanlike manner.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "\"What a delightful library you have at Pemberley, Mr Darcy!\" -- \"It ought to be good,\" he replied, \"it has been the work of many generations.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I cannot comprehend the neglect of a family library in such days as these.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "It shows an affection for her sister that is very pleasing.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Though the motives which governed me may to you very naturally appear insufficient, I have not yet learned to condemn them.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I have the highest respect for your nerves, they are my old friends.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Miss Bingley was left to the satisfaction of having forced him to say what gave no one any pain but herself.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "It has been the work of many generations.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Mr Wickham is blessed with such happy manners as may ensure his making friends - whether he may be equally capable of retaining them is less certain.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "She is tolerable, but not handsome enough to tempt me, and I am in no humor at present to give consequence to young ladies who are slighted by other men.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "The business of Mrs Bennet's life is to get her daughters married.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Do you talk by rule, then, while you are dancing?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You must know surely, you must know. It was all for you .",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "It is a compliment which I never pay to any place if I can avoid it.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I am particularly unlucky in meeting with a person so well able to expose my real character, in a part of the world, where I had hoped to pass myself off with some degree of credit.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "When you met us there the other day, we had just been forming a new acquaintance.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I am sorry you think so; but if that be the case, there can at least be no want of subject. We may compare our different opinions.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Are you consulting your own feelings in the present case, or do you imagine that you are gratifying mine?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "With great energy; but it is always a subject which makes a lady energetic.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "No, of course not. I just have some business to attend to in town.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You cannot have a right to such a very, strong local attachment. You cannot have been, always at Longbourn.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You saw me dance at Meryton, I believe, sir.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Yes, vanity is a weakness indeed. But pride—where there is a real superiority of mind, pride will be always under good regulation.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "May I ask to what these questions tend?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I shall not say you are mistaken.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Have you anything else to propose for my domestic felicity?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "This is no very striking resemblance of your own character, I am sure.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "We are speaking of music, madam.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "This seems like a very comfortable house. Lady Catherine, I believe, did a great deal to it when Mr Collins first came to Hunsford.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "That she does not need such advice. She practices very constantly.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "My courage always rises with every attempt to intimidate me.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You are dancing with the only handsome girl in the room.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I certainly shall not. You know how I detest it unless I am particularly acquainted with my partner.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Do not you feel a great inclination, Miss Bennet, to seize such an opportunity of dancing a reel?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Well, I did ask Miss Elizabeth. Sir William forced the issue.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "What think you of books?",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You take an eager interest in that gentleman’s concerns.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I have already told her so once, by your desire.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "You dislike an argument, and want to silence this.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Can in general supply but a few subjects for such a study.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "Perhaps I do. Arguments are too much like disputes.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "I will be calm; I will be mistress of myself.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "We have neither of us anything to tell; you, because you do not communicate, and I, because I conceal nothing.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "You are very right in supposing how my money would be spent - some of it, at least - my loose cash would certainly be employed in improving my collection of music and books.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Mama, the more I know of the world, the more am I convinced that I shall never see a man whom I can really love.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "She would have every book that tells her how to admire an old twisted tree.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "There is something so amiable in the prejudices of a young mind, that one is sorry to see them give way to the reception of more general opinions.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "They gave themselves up wholly to their sorrow, seeking increase of wretchedness in every reflection that could afford it, and resolved against ever admitting consolation in future.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "\"This will probably be the case,\" he replied; \"and yet there is something so amiable in the prejudices of a young mind, that one is sorry to see them give way to the reception of more general opinions.\"",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "As moderate as those of the rest of the world, I believe. I wish as well as everybody else to be perfectly happy; but, like everybody else it must be in my own way. Greatness will not make me so.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "If I could but know his heart, everything would become easy.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "I am afraid that the pleasantness of an employment does not always evince its propriety.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Your father thought only of them. And I must say this: that you owe no particular gratitude to him, nor attention to his wishes; for we very well know that if he could, he would have left almost everything in the world to them.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Seven years would be insufficient to make some people acquainted with each other, and seven days are more than enough for others.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "A fond mother, though, in pursuit of praise for her children, the most rapacious of human beings, is likewise the most credulous.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "I will not torment myself any longer by remaining among friends whose society it is impossible for me now to enjoy.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "As it was impossible, however, now to prevent their coming, Lady Middleton resigned herself to the idea of it, with all the philosophy of a well-bred woman, contenting herself with merely giving her husband a gentle reprimand on the subject five or six times every day.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Brandon is just the kind of man, whom everybody speaks well of, and nobody cares about; whom all are delighted to see, and nobody remembers to talk to.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "But now she is of age and may choose for herself, and a pretty choice she has made.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "She did not lessen her own grief, it was at least prevented from unnecessary increase, and her mother and sisters were spared much solicitude on her account.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "You would be a happier man if you had any profession to engage your time and give an interest to your plans and actions.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "It is not time or opportunity that is to determine intimacy; it is disposition alone.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "In the promotion of this object she was zealously active, as far as her ability reached; and missed no opportunity of projecting weddings among all the young people of her acquaintance.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Shyness is only the effect of a sense of inferiority in some way or other. If I could persuade myself that my manners were perfectly easy and graceful, I should not be shy.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "She was stronger alone, and her own good sense so well supported her, that her firmness was as unshaken, her appearance of cheerfulness as invariable, as with regrets so poignant and so fresh, it was possible for them to be.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Elinor agreed to it all, for she did not think he deserved the compliment of rational opposition.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Nothing is more deceitful than the appearance of humility. It is often only carelessness of opinion, and sometimes an indirect boast.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "A person who can write a long letter with ease, cannot write ill.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "To be fond of dancing was a certain step towards falling in love.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "The more I know of the world, the more I am convinced that I shall never see a man whom I can really love. I require so much!",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "I wish, as well as everybody else, to be perfectly happy; but, like everybody else, it must be in my own way.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Know your own happiness. You want nothing but patience - or give it a more fascinating name, call it hope.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "People always live for ever when there is an annuity to be paid them",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "It isn't what we say or think that defines us, but what we do.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "There is no charm equal to tenderness of heart...",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "If I loved you less, I might be able to talk about it more.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Good-humored, unaffected girls, will not do for a man who has been used to sensible women. They are two distinct orders of being.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "There are certainly not so many men of large fortune in the world, as there are pretty women to deserve them.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "Single women have a dreadful propensity for being poor. Which is one very strong argument in favor of matrimony.",
+        "author" : "Jane Austen",
+        "title"  : "Pride And Prejudice"
+    },
+    {
+        "text"   : "It sometimes happens that a woman is handsomer at twenty-nine than she was ten years before.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "You shall have mine forever so much money, though, if I am tolerably rich when I get home, I shall like it very much myself.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Imagine to yourself everything most profligate and shocking in the way of dancing and sitting down together.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "For my own part, I care so little about the ball that it would be no sacrifice to me to give it up for the sake of seeing you two days earlier.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I am very much flattered by your commendation of my last letter, for I write only for fame, and without any view to pecuniary emolument.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "People get so horridly poor and economical in this part of the world, that I have no patience with them. Kent is the only place for happiness.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Selfishness must always be forgiven, you know, because there is no hope of a cure.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "A large income is the best recipe for happiness I ever heard of.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "Everybody likes to go their own way—to choose their own time and manner of devotion.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "I am very strong. Nothing ever fatigues me, but doing what I do not like.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "When people are waiting, they are bad judges of time, and every half-minute seems like five.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "A watch is always too fast or too slow. I cannot be dictated to by a watch.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "There could have been no two hearts so open, no tastes so similar, no feelings so in unison, no countenances so beloved.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "I knew that we should either go to the bottom together or that she would be the making of me.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "At nineteen, you know, one does not think very seriously.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Such a letter was not soon to be recovered from.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "At last Anne was at home again, and happier than anyone in that house could have conceived.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "What wild imaginations one forms where dear self is concerned! How sure to be mistaken!",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Husbands and wives generally understand when opposition will be vain.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "I hate to hear you talk about all women as if they were fine ladies instead of rational creatures. None of us want to be in calm waters all our lives.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Friendship is certainly the finest balm for the pangs of disappointed love.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "I have no notion of loving people by halves, it is not my nature.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Where shall we see a better daughter, or a kinder sister, or a truer friend?",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Better be without sense, than misapply it as you do.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "It is always incomprehensible to a man that a woman should ever refuse an offer of marriage. A man always imagines a woman to be ready for anybody who asks her.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Vanity working on a weak head, produces every sort of mischief.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "One half of the world cannot understand the pleasures of the other.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "A single woman, with a very narrow income, must be a ridiculous, disagreeable, old maid! the proper sport of boys and girls; but a single woman, of good fortune, is always respectable, and may be as sensible and pleasant as anybody else.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "There are people, who the more you do for them, the less they will do for themselves.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "The truth is, that in London it is always a sickly season. Nobody is healthy in London, nobody can be.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "There is no charm equal to tenderness of heart.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "It was a delightful visit—perfect, in being much too short.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "There are secrets in all families.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Respect for right conduct is felt by every body.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Nobody who has not been in the interior of a family can say what the difficulties of any individual of that family may be.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "It is such a happiness when good people get together—and they always do.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Harriet was one of those, who, having once begun, would be always in love.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Human nature is so well disposed towards those who are in interesting situations, that a young person, who either marries or dies, is sure of being kindly spoken of.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "What is right to be done cannot be done too soon.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "There is safety in reserve, but no attraction. One cannot love a reserved person.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "I do not know whether it ought to be so, but certainly silly things do cease to be silly if they are done by sensible people in an impudent way. Wickedness is always wickedness, but folly is not always folly.—It depends upon the character of those who handle it.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Surprises are foolish things. The pleasure is not enhanced, and the inconvenience is often considerable.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "A mind lively and at ease, can do with seeing nothing, and can see nothing that does not answer.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "The ladies here probably exchanged looks which meant, \"Men never know when things are dirty or not;\" and the gentlemen perhaps thought each to himself, \"Women will have their little nonsense and needless cares.\"",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "I am very sorry to be right in this instance. I would much rather have been merry than wise.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Jane Fairfax is a very charming young woman - but not even Jane Fairfax is perfect. She has a fault. She has not the open temper which a man would wish for in a wife.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Business, you know, may bring money, but friendship hardly ever does.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Young ladies are delicate plants. They should take care of their health and their complexion.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "If things are going untowardly one month, they are sure to mend the next.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Can you trust me with such flatterers?—Does my vain spirit ever tell me I am wrong?",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "General benevolence, but not general friendship, made a man what he ought to be.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "This is not pleasant to you, Emma–and it is very far from pleasant to me; but I must, I will,–I will tell you truths while I can.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Never had she felt so agitated, mortified, grieved, at any circumstance in her life. She was most forcibly struck. The truth of his representation there was no denying. She felt it at her heart. How could she have been so brutal, so cruel to Miss Bates?",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "A man would always wish to give a woman a better home than the one he takes her from; and he who can do it, where there is no doubt of her regard, must, I think, be the happiest of mortals.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "\"I cannot make speeches, Emma:\" he soon resumed; and in a tone of such sincere, decided, intelligible tenderness as was tolerably convincing.—\"If I loved you less, I might be able to talk about it more. But you know what I am.—You hear nothing but truth from me.\"",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Seldom, very seldom, does complete truth belong to any human disclosure; seldom can it happen that something is not a little disguised, or a little mistaken; but where, as in this case, though the conduct is mistaken, the feelings are not, it may not be very material.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "What did she say? Just what she ought, of course. A lady always does. She said enough to show there need not be despair – and to invite him to say more himself.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "It is very difficult for the prosperous to be humble.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "One man’s style must not be the rule of another’s.",
+        "author" : "Jane Austen",
+        "title"  : "Emma"
+    },
+    {
+        "text"   : "Here I am once more in this scene of dissipation and vice, and I begin already to find my morals corrupted.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "What dreadful hot weather we have! It keeps one in a continual state of inelegance.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Next week I shall begin my operations on my hat, on which you know my principal hopes of happiness depend.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I am very much obliged to my dear little George for his message - for his love at least; his duty, I suppose, was only in consequence of some hint of my favorable intentions towards him from his father or mother. I am sincerely rejoiced, however, that I ever was born, since it has been the means of procuring him a dish of tea.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I do not want people to be very agreeable, as it saves me the trouble of liking them a great deal.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "You deserve a longer letter than this; but it is my unhappy fate seldom to treat people so well as they deserve.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I had a very pleasant evening, however, though you will probably find out that there was no particular reason for it; but I do not think it worth while to wait for enjoyment until there is some real opportunity for it.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "She would tell you herself that she has a very dreadful cold in her head at present; but I have not much compassion for colds in the head without fever or sore throat.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I am rather impatient to know the fate of my best gown.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I cannot help thinking that it is more natural to have flowers grow out of the head than fruit.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I can recollect nothing more to say at present; perhaps breakfast may assist my ideas. I was deceived - my breakfast supplied only two ideas - that the rolls were good and the butter bad.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "In Paragon we met Mrs Foley and Mrs Dowdeswell with her yellow shawl airing out, and at the bottom of Kingsdown Hill we met a gentleman in a buggy, who, on minute examination, turned out to be Dr Hall - and Dr Hall in such very deep mourning that either his mother, his wife, or himself must be dead.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Your abuse of our gowns amuses but does not discourage me; I shall take mine to be made up next week, and the more I look at it the better it pleases me. My cloak came on Tuesday, and, though I expected a good deal, the beauty of the lace astonished me. It is too handsome to be worn - almost too handsome to be looked at.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I believe I drank too much wine last night at Hurstbourne; I know not how else to account for the shaking of my hand today. You will kindly make allowance therefore for any indistinctness of writing, by attributing it to this venial error.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "The General has got the gout, and Mrs Maitland the jaundice. Miss Debary, Susan, and Sally, all in black, but without any stature, made their appearance, and I was as civil to them as their bad breath would allow me.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "We have been exceedingly busy ever since you went away. In the first place we have had to rejoice two or three times everyday at your having such very delightful weather for the whole of your journey...",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "One cannot fix one's eyes on the commonest natural production without finding food for a rambling fancy.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I have now attained the true art of letter-writing, which we are always told, is to express on paper exactly what one would say to the same person by word of mouth.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "You are very kind in planning presents for me to make, and my mother has shown me exactly the same attention; but as I do not choose to have generosity dictated to me, I shall not resolve on giving my cabinet to Anna till the first thought of it has been my own.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Another stupid party last night; perhaps if larger they might be less intolerable, but here there were only just enough to make one card-table, with six people to look on and talk nonsense to each other.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Mrs B. and two young women were of the same party, except when Mrs B. thought herself obliged to leave them to run round the room after her drunken husband. His avoidance, and her pursuit, with the probable intoxication of both, was an amusing scene.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I cannot anyhow continue to find people agreeable; I respect Mrs Chamberlayne for doing her hair well, but cannot feel a more tender sentiment. Miss Langley is like any other short girl, with a broad nose and wide mouth, fashionable dress and exposed bosom. Adm. Stanhope is a gentleman-like man, but then his legs are too short and his tail too long.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "In climbing a hill Mrs Chamberlayne is very capital; I could with difficulty keep pace with her, yet would not flinch for the world. On plain ground I was quite her equal. And so we posted away under a fine hot sun, she without any parasol or any shade to her hat, stopping for nothing, and crossing the churchyard at Weston with as much expedition as if we were afraid of being buried alive.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "We are to have a tiny party here tonight. I hate tiny parties, they force one into constant exertion.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "You will have a great deal of unreserved discourse with Mrs K., I dare say, upon this subject, as well as upon many other of our family matters. Abuse everybody but me.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Our little visitor has just left us, and left us highly pleased with her; she is a nice, natural, open-hearted, affectionate girl, with all the ready civility which one sees in the best children in the present day; so unlike anything that I was myself at her age, that I am often all astonishment and shame.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "You know how interesting the purchase of a sponge-cake is to me.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "The pleasures of friendship, of unreserved conversation, of similarity of taste and opinions will make good amends for orange wine.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "He has lived in that house more than twenty years, and poor man, is so totally deaf that they say he could not hear a cannon, were it fired close to him; having no cannon at hand to make the experiment, I took it for granted, and talked to him a little with my fingers, which was funny enough.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Could my ideas flow as fast as the rain in the store-closet it would be charming.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I am sorry to tell you that I am getting very extravagant, and spending all my money, and, what is worse for you, I have been spending yours too.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I give you joy of our new nephew, and hope if he ever comes to be hanged it will not be till we are too old to care about it.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "My head-dress was a bugle-band like the border to my gown, and a flower of Mrs Tilson's. I depended upon hearing something of the evening from Mr W. K., and am very well satisfied with his notice of me - \"A pleasing looking young woman\" - that must do; one cannot pretend to anything better now; thankful to have it continued a few years longer!",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "How horrible it is to have so many people killed! And what a blessing that one cares for none of them!",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I will not say that your mulberry-trees are dead, but I am afraid they are not alive.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Mr Digweed has used us basely. Handsome is as handsome does; he is therefore a very ill-looking man.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Let me know when you begin the new tea, and the new white wine. My present elegancies have not yet made me indifferent to such matters. I am still a cat if I see a mouse.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "He seems a very harmless sort of young man, nothing to like or dislike in him - goes out shooting or hunting with the two others all the morning, and plays at whist and makes queer faces in the evening.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "By the bye, as I must leave off being young, I find many douceurs in being a sort of chaperon, for I am put on the sofa near the fire and can drink as much wine as I like.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I cannot help hoping that many will feel themselves obliged to buy it. I shall not mind imagining it a disagreeable duty to them, so as they do it.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Devereux Forester's being ruined by his vanity is extremely good, but I wish you would not let him plunge into a \"vortex of dissipation.\" I do not object to the thing, but I cannot bear the expression; it is such thorough novel slang, and so old that I daresay Adam met with it in the first novel he opened.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Walter Scott has no business to write novels, especially good ones. It is not fair. He has fame and profit enough as a poet, and should not be taking the bread out of other people's mouths. I do not like him, and do not mean to like Waverley if I can help it, but fear I must.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "The Webbs are really gone! When I saw the waggons at the door, and thought of all the trouble they must have in moving, I began to reproach myself for not having liked them better, but since the waggons have disappeared my conscience has been closed again, and I am excessively glad they are gone.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "There are such beings in the world - perhaps one in a thousand - as the creature you and I should think perfection; where grace and spirit are united to worth, where the manners are equal to the heart and understanding; but such a person may not come in your way, or, if he does, he may not be the eldest son of a man of fortune, the near relation of your particular friend, and belonging to your own county.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "His having been in love with the aunt gives Cecilia an additional interest with him. I like the idea - a very proper compliment to an aunt! I rather imagine indeed that nieces are seldom chosen but out of compliment to some aunt or another. I daresay Ben [Anna's husband] was in love with me once, and would never have thought of you if he had not supposed me dead of scarlet fever.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I wish I could finish stories as fast as you can. I am much obliged to you for the sight of Olivia, and think you have done for her very well; but the good-for-nothing father, who was the real author of all her faults and sufferings, should not escape unpunished. I hope he hung himself, or took the surname of Bone or underwent some direful penance or other.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I am quite honoured by your thinking me capable of drawing such a clergyman as you gave the sketch of in your note of Nov. 16th. But I assure you I am not. The comic part of the character I might be equal to, but not the good, the enthusiastic, the literary. Such a man's conversation must at times be on subjects of science and philosophy, of which I know nothing.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+	"text"   : "A classical education, or at any rate a very extensive acquaintance with English literature, ancient and modern, appears to me quite indispensable for the person who would do any justice to your clergyman; and I think I may boast myself to be, with all possible vanity, the most unlearned and uninformed female who ever dared to be an authoress.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "He and I should not in the least agree, of course, in our ideas of novels and heroines. Pictures of perfection, as you know, make me sick and wicked; but there is some very good sense in what he says, and I particularly respect him for wishing to think well of all young ladies; it shows an amiable and a delicate mind. And he deserves better treatment than to be obliged to read any more of my works.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I could no more write a romance than an epic poem. I could not sit seriously down to write a serious romance under any other motive than to save my life; and if it were indispensable for me to keep it up and never relax into laughing at myself or other people, I am sure I should be hung before I had finished the first chapter.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "We saw a countless number of post-chaises full of boys pass by yesterday morning - full of future heroes, legislators, fools, and villains. You have never thanked me for my last letter, which went by the cheese. I cannot bear not to be thanked.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "What should I do with your strong, manly, spirited sketches, full of variety and glow? How could I possibly join them on to the little bit (two inches wide) of ivory on which I work with so fine a brush, as produces little effect after much labour?",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I would recommend to her and Mr D. the simple regimen of separate rooms.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "Single women have a dreadful propensity for being poor, which is one very strong argument in favour of matrimony.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I certainly have not been well for many weeks, and about a week ago I was very poorly. I have had a good deal of fever at times, and indifferent nights; but I am considerably better now and am recovering my looks a little, which have been bad enough - black and white, and every wrong colour. I must not depend upon being ever very blooming again. Sickness is a dangerous indulgence at my time of life.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I will not boast of my handwriting; neither that nor my face have yet recovered their proper beauty, but in other respects I am gaining strength very fast.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "I am now out of bed from 9 in the morning to 10 at night: upon the sofa, 'tis true, but I eat my meals with Aunt Cass in a rational way, and can employ myself, and walk from one room to another.",
+        "author" : "Jane Austen",
+        "title"  : "Letters Of Jane Austen"
+    },
+    {
+        "text"   : "It was in this reign that Joan of Arc reigned and made such a row among the English.",
+        "author" : "Jane Austen",
+        "title"  : "The History Of England"
+    },
+    {
+        "text"   : "There were several Battles between the Yorkists and the Lancastrians, in which the former (as they ought) usually won.",
+        "author" : "Jane Austen",
+        "title"  : "The History Of England"
+    },
+    {
+        "text"   : "She married Philip King of Spain, who in her sister's reign, was famous for building Armadas.",
+        "author" : "Jane Austen",
+        "title"  : "The History Of England"
+    },
+    {
+        "text"   : "Sophia shrieked and fainted on the ground—I screamed and instantly ran mad! We remained thus mutually deprived of our senses some minutes, and on regaining them were deprived of them again. For an hour and a quarter did we continue in this unfortunate situation.",
+        "author" : "Jane Austen",
+        "title"  : "Love And Friendship"
+    },
+    {
+        "text"   : "Depend upon it, you see but half. You see the evil, but you do not see the consolation. There will be little rubs and disappointments everywhere, and we are all apt to expect too much; but then, if one scheme of happiness fails, human nature turns to another; if the first calculation is wrong, we make a second better.\"",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "Everybody likes to go their own way— to choose their own time and manner of devotion.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "I cannot think well of a man who sports with any woman's feelings; and there may often be a great deal more suffered than a stander-by can judge of.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "\"I pay very little regard,\" said Mrs Grant, \"to what any young person says on the subject of marriage. If they profess a disinclination for it, I only set it down that they have not yet seen the right person.\"",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "How wonderful, how very wonderful the operations of time, and the changes of the human mind!",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "If any one faculty of our nature may be called more wonderful than the rest, I do think it is memory. There seems something more speakingly incomprehensible in the powers, the failures, the inequalities of memory, than in any other of our intelligences. The memory is sometimes so retentive, so serviceable, so obedient; at others, so bewildered and so weak; and at others again, so tyrannic, so beyond control!",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "It will, I believe, be everywhere found, that as the clergy are, or are not what they ought to be, so are the rest of the nation.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "Nothing amuses me more than the easy manner with which everybody settles the abundance of those who have a great deal less than themselves.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "Oh! do not attack me with your watch. A watch is always too fast or too slow. I cannot be dictated to by a watch.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "One cannot fix one's eyes on the commonest natural production without finding food for a rambling fancy.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "Selfishness must always be forgiven, you know, because there is no hope of a cure.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "The enthusiasm of a woman's love is even beyond the biographer's.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "The gentleness, modesty, and sweetness of her character were warmly expatiated on; that sweetness which makes so essential a part of every woman's worth in the judgment of man, that though he sometimes loves where it is not, he can never believe it absent.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "There is nothing like employment, active indispensable employment, for relieving sorrow. Employment, even melancholy, may dispel melancholy, and her occupations were hopeful.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "We have all a better guide in ourselves, if we would attend to it, than any other person can be.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "Where any one body of educated men, of whatever denomination, are condemned indiscriminately, there must be a deficiency of information, or...of something else.",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "Her eye fell everywhere on lawns and plantations of the freshest green; and the trees, though not fully clothed, were in that delightful state when farther beauty is known to be at hand, and when, while much is actually given to the sight, more yet remains for the imagination. Chapter 46",
+        "author" : "Jane Austen",
+        "title"  : "Mansfield Park"
+    },
+    {
+        "text"   : "It was not very wonderful that Catherine, who had by nature nothing heroic about her, should prefer cricket, baseball, riding on horseback, and running about the country at the age of fourteen, to books.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Provided that nothing like useful knowledge could be gained from them, provided they were all story and no reflection, she had never any objection to books at all.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "But Mrs Morland knew so little of lords and baronets, that she entertained no notion of their general mischievousness, and was wholly unsuspicious of danger to her daughter from their machinations.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Mrs Allen was one of that numerous class of females, whose society can raise no other emotion than surprise at there being any men in the world who could like them well enough to marry them.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "As for admiration, it was always very welcome when it came, but she did not depend on it.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Now I must give one smirk, and then we may be rational again.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Every body allows that the talent of writing agreeable letters is peculiarly female.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "\"As far as I have had opportunity of judging, it appears to be that the usual style of letter-writing among women is faultless, except in three particulars.\"\\n\"And what are they?\"\\n\"A general deficiency of subject, a total inattention to stops, and a very frequent ignorance of grammar.\"",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Let us leave it to the reviewers to abuse such effusions of fancy at their leisure, and over every new novel to talk in threadbare strains of the trash with which the press now groans.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+       "text"   : "\"And what are you reading, Miss?\"\n\"Oh! It is only a novel!\" replies the young lady, while she lays down her book with affected indifference, or momentary shame. \"It is only Cecilia, or Camilla, or Belinda\"",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves; it is not my nature.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "But history, real solemn history, I cannot be interested in. ... it is very tiresome: and yet I often think it odd that it should be so dull, for a great deal of it must be invention.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "\"Historians, you think,\" said Miss Tilney, \"are not happy in their flights of fancy. They display imagination without raising interest.\"",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "\"That little boys and girls should be tormented,\" said Henry, \"is what no one at all acquainted with human nature in a civilized state can deny; but in behalf of our most distinguished historians, I must observe, that they might well be offended at being supposed to have no higher aim; and that by their method and style, they are perfectly well qualified to torment readers of the most advanced reason and mature time of life.\"",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "I use the verb \"to torment,\" as I observed to be your own method, instead of \"to instruct,\" supposing them to be now admitted as synonimous.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "But historians are not accountable for the difficulty of learning to read; and even you yourself, who do not altogether seem particularly friendly to very severe, very intense application, may perhaps be brought to acknowledge that it is very well worth while to be tormented for two or three years of one's life, for the sake of being able to read all the rest of it.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Miss Morland, no one can think more highly of the understanding of women than I do. In my opinion, nature has given them so much, that they never find it necessary to use more than half.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "A woman especially, if she have the misfortune of knowing anything, should conceal it as well as she can.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "From politics it was an easy step to silence.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Me?— yes; I cannot speak well enough to be unintelligible.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "A distinction to which they had been born gave no pride.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "If we do not have hearts, we have eyes; and they give us torment enough.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "No man is offended by another man’s admiration of the woman he loves; it is the woman only who can make it a torment.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "It is probable that she will neither love so well, nor flirt so well, as she might do either singly.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Nay, if it is to be guess-work, let us all guess for ourselves. To be guided by second-hand conjecture is pitiful. The premises are before you.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "I will not say, ‘Do not be uneasy,’ because I know that you are so, at this moment; but be as little uneasy as you can.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "You have gained a new source of enjoyment, and it is well to have as many holds on happiness as possible.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "The mere habit of learning to love is the thing; and a teachableness of disposition in a young lady is a great blessing.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "I am come, young ladies, in a very moralizing strain, to observe that our pleasures in this world are always to be paid for, and that we often purchase them at a great disadvantage, giving ready-monied actual happiness for a draft on the future, that may not be honoured.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "Prepare for your sister-in-law, Eleanor, and such a sister-in-law as you must delight in! Open, candid, artless, guileless, with affections strong but simple, forming no pretensions, and knowing no disguise.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "His departure gave Catherine the first expermental conviction that a loss may be sometimes a gain.",
+        "author" : "Jane Austen",
+        "title"  : "Northanger Abbey"
+    },
+    {
+        "text"   : "A few years before, Anne Elliot had been a very pretty girl, but her bloom had vanished early; and as even in its height, her father had found little to admire in her, (so totally different were her delicate features and mild dark eyes from his own), there could be nothing in them, now that she was faded and thin, to excite his esteem.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Vanity was the beginning and the end of Sir Walter Elliot's character; vanity of person and of situation. He had been remarkably handsome in his youth; and, at fifty-four, was still a very fine man. Few women could think more of their personal appearance than he did, nor could the valet of any new made lord be more delighted with the place he held in society.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "He considered the blessing of beauty as inferior only to the blessing of a baronetcy; and the Sir Walter Elliott, who united these gifts, was the constant object of his warmest respect and devotion.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Elizabeth had succeeded at sixteen to all that was possible of her mother's rights and consequence; and being very handsome, and very like himself, her influence had always been great, and they had gone on together most happily.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "His other two children were of very inferior value. Mary had acquired a little artificial importance by becoming Mrs Charles Musgrove; but Anne, with an elegance of mind and sweetness of character, which must have placed her high with any people of real understanding, was nobody with either father or sister; her word had no weight, her convenience was always to give way — she was only Anne.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "How quick come the reasons for approving what we like!",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "The navy, I think, who have done so much for us, have at least an equal claim with any other set of men, for all the comforts and all the privileges which any home can give. Sailors work hard enough for their comforts, we must all allow.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "She had been forced into prudence in her youth, she learned romance as she grew older: the natural sequence of an unnatural beginning.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "He gave her a momentary glance, a glance of brightness, which seemed to say, \"That man is struck with you, and even I, at this moment, see something like Anne Elliot again.\"",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "My sore throats, you know, are always worse than anybody's.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Anne hoped she had outlived the age of blushing; but the age of emotion she certainly had not.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "He had, in fact, though now his sisters were doing all they could for him, by calling him \"poor Richard,\" been nothing better than a thick-headed, unfeeling, unprofitable Dick Musgrove, who had never done anything to entitle him to more than the abbreviation of his name, living or dead.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Now they were as strangers; nay, worse than strangers, for they could never become acquainted.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "His cold politeness, his ceremonious grace, were worse than anything.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "I hate to hear you talking so like a fine gentleman, and as if women were all fine ladies, instead of rational creatures. We none of us expect to be in smooth water all our days.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "He could not forgive her, but he could not be unfeeling. Though condemning her for the past, and considering it with high and unjust resentment, though perfectly careless of her, and though becoming attached to another, still he could not see her suffer, without the desire of giving her relief.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "It was a remainder of former sentiment; it was an impulse of pure, though unacknowledged friendship; it was a proof of his own warm and amiable heart, which she could not contemplate without emotions so compounded of pleasure and pain, that she knew not which prevailed.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Upon Lady Russell's appearance soon afterwards, the whole party was collected, and all that remained was to marshal themselves, and proceed into the Concert Room; and be of all the consequence in their power, draw as many eyes, excite as many whispers, and disturb as many people as they could.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "She thought it was the misfortune of poetry to be seldom safely enjoyed by those who enjoyed it completely; and that the strong feelings which alone could estimate it truly were the very feelings which ought to taste it but sparingly.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "It was evident that the gentleman, (completely a gentleman in manner) admired her exceedingly. Captain Wentworth looked round at her instantly in a way which shewed his noticing of it. He gave her a momentary glance, a glance of brightness, which seemed to say, 'That man is struck with you, and even I, at this moment, see something like Anne Elliot again.'",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "One man's ways may be as good as another's, but we all like our own best.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "She left it to himself to recollect, that Mrs Smith was not the only widow in Bath between thirty and forty, with little to live on, and no surname of dignity.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Upon Lady Russell's appearance soon afterwards, the whole party was collected, and all that remained was to marshal themselves, and proceed into the Concert Room; and be of all the consequence in their power, draw as many eyes, excite as many whispers, and disturb as many people as they could.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "A man does not recover from such a devotion of the heart to such a woman! He ought not; he does not.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "She had spoken it; but she trembled when it was done, conscious that her words were listened to, and daring not even to try to observe their effect.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "All the privilege I claim for my own sex (it is not a very enviable one: you need not covet it), is that of loving longest, when existence or when hope is gone!",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Dare not say that a man forgets sooner than woman, that his love has an earlier death. I have loved none but you. Unjust I may have been, weak and resentful I have been, but never inconstant.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "You pierce my soul. I am half agony, half hope. Tell me not that I am too late, that such precious feelings are gone for ever. I offer myself to you again with a heart even more your own than when you almost broke it, eight and a half years ago.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Dare not say that a man forgets sooner than woman, that his love has an earlier death. I have loved none but you. Unjust I may have been, weak and resentful I have been, but never inconstant.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "If I was wrong in yielding to persuasion once, remember that it was to persuasion exerted on the side of safety, not of risk. When I yielded, I thought it was to duty; but no duty could be called in aid here. In marrying a man indifferent to me, all risk would have been incurred, and all duty violated.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "Anne was tenderness itself, and she had the full worth of it in Captain Wentworth's affection. His profession was all that could ever make her friends wish that tenderness less, the dread of a future war all that could dim her sunshine.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "She gloried in being a sailor's wife, but she must pay the tax of quick alarm for belonging to that profession which is, if possible, more distinguished in its domestic virtues than in its national importance.",
+        "author" : "Jane Austen",
+        "title"  : "Persuasion"
+    },
+    {
+        "text"   : "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Mr Bennet was so odd a mixture of quick parts, sarcastic, humour, reserve, and caprice, that the experience of three-and-twenty years had been insufficient to make his wife understand his character. Her mind was less difficult to develop.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "She was a woman of mean understanding, little information, and uncertain temper. When discontented, she fancied herself nervous. The business of her life was to get her daughters married; its solace was visiting and news.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "She is a selfish, hypocritical woman, and I have no opinion of her.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"What say you, Mary? for you are a young lady of deep reflection, I know, and read great books and make extracts.”\\nMary wished to say something very sensible, but knew not how.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Nothing could be more delightful! To be fond of dancing was a certain step towards falling in love; and very lively hopes of Mr Bingley's heart were entertained.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"She is tolerable; but not handsome enough to tempt me; I am in no humour at present to give consequence to young ladies who are slighted by other men. You had better return to your partner and enjoy her smiles, for you are wasting your time with me.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"But I can assure you,\" she added, \"that Lizzy does not lose much by not suiting his fancy; for he is a most disagreeable, horrid man, not at all worth pleasing. So high and so conceited that there was no enduring him! He walked here, and he walked there, fancying himself so very great! Not handsome enough to dance with! I wish you had been there, my dear, to have given him one of your set-downs. I quite detest the man.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Oh! you are a great deal too apt, you know, to like people in general. You never see a fault in anybody. All the world are good and agreeable in your eyes. I never heard you speak ill of a human being in your life.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "But that is one great difference between us. Compliments always take you by surprise, and me never.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "They were rather handsome, had been educated in one of the first private seminaries in town, had a fortune of twenty thousand pounds, were in the habit of spending more than they ought, and of associating with people of rank, and were therefore in every respect entitled to think well of themselves, and meanly of others.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Darcy was clever. He was at the same time haughty, reserved, and fastidious, and his manners, though well-bred, were not inviting.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I could easily forgive his pride, if he had not mortified mine.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Vanity and pride are different things, though the words are often used synonymously. A person may be proud without being vain. Pride relates more to our opinion of ourselves, vanity to what we would have others think of us.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "If a woman is partial to a man, and does not endeavour to conceal it, he must find it out.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Happiness in marriage is entirely a matter of chance. If the dispositions of the parties are ever so well known to each other or ever so similar beforehand, it does not advance their felicity in the least. They always continue to grow sufficiently unlike afterwards to have their share of vexation; and it is better to know as little as possible of the defects of the person with whom you are to pass your life.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Occupied in observing Mr Bingley's attentions to her sister, Elizabeth was far from suspecting that she was herself becoming an object of some interest in the eyes of his friend.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Mr Darcy had at first scarcely allowed her to be pretty; he had looked at her without admiration at the ball; and when they next met, he looked at her only to criticise. But no sooner had he made it clear to himself and his friends that she hardly had a good feature in her face, than he began to find it was rendered uncommonly intelligent by the beautiful expression of her dark eyes.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Though he had detected with a critical eye more than one failure of perfect symmetry in her form, he was forced to acknowledge her figure to be light and pleasing; and in spite of his asserting that her manners were not those of the fashionable world, he was caught by their easy playfulness.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Mary had neither genius nor taste; and though vanity had given her application, it had given her likewise a pedantic air and conceited manner, which would have injured a higher degree of excellence than she had reached.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Your conjecture is totally wrong, I assure you. My mind was more agreeably engaged. I have been meditating on the very great pleasure which a pair of fine eyes in the face of a pretty woman can bestow.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony, in a moment.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"If my children are silly, I must hope to be always sensible of it... This is the only point, I flatter myself, on which we do not agree. I had hoped that our sentiments coincided in every particular, but I must so far differ from you as to think our two youngest daughters uncommonly foolish.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\".... for she is very ill indeed, and suffers a vast deal, though with the greatest patience in the world, which is always the way with her, for she has, without exception, the sweetest temper I ever met with.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"When I am in the country, I never wish to leave it; and when I am in town it is pretty much the same. They each have their advantages, and I can be equally happy in either.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I wonder who first discovered the efficacy of poetry in driving away love! ... Every thing nourishes what is strong already. But if it only be a slight, thin sort of inclination, I am convinced that one good sonnet will starve it entirely away.\"\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"My ideas flow so rapidly that I have not time to express theml by which means my letters sometimes convey no ideas at all to my correspondents.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Nothing is more deceitful,\" said Darcy, \"than the appearance of humility. It is often only carelessness of opinion, and sometimes an indirect boast.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"The power of doing anything with quickness is always prized much by the possessor, and often without any attention to the imperfection of the performance.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"You expect me to account for opinions which you choose to call mine, but which I have never acknowledged.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"To yield readily-easily-to the persuasion of a friend is no merit with you.\"\\n\"To yield without conviction is no compliment to the understanding of either.\"\\n\"You appear to me, Mr Darcy, to allow nothing for the influence of friendship and affection.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "She hardly knew how to suppose that she could be an object of admiration to so great a man.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Elizabeth, having rather expected to affront him, was amazed at his gallantry; but there was a mixture of sweetness and archness in her manner which made it difficult for her to affront anybody; and Darcy had never been so bewitched by any woman as he was by her. He really believed, that were it not for the inferiority of her connections, he should be in some danger.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Miss Bingley,\" said he, \"has given me more credit than can be. The wisest and the best of men - nay, the wisest and best of their actions - may be rendered ridiculous by a person whose first object in life is a joke.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I am perfectly convinced by it that Mr Darcy has no defect. He owns it himself without disguise.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+	"text"   : "\"No,\" said Darcy, \"I have made no such pretension. I have faults enough, but they are not, I hope, of understanding. My temper I dare not vouch for.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Mr Collins had only to change from Jane to Elizabeth-and it was soon done-done while Mrs Bennet was stirring the fire.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I had not thought Mr Darcy so bad as this-though I have never liked him. I had not thought so very ill of him. I had supposed him to be despising his fellow-creatures in general, but did not suspect him of descending to such malicious revenge, such injustice, such inhumanity as this.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"How strange!\" cried Elizabeth. \"How abominable!-I wonder that the very pride of this Mr Darcy has not made him just to you!-If from no better motive, that he should not have been too proud to be dishonest,-for dishonesty I must call it.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+	"text"   : "\"It is wonderful,\"-replied Wickham,-\"for almost all his actions may be traced to pride;-and pride has often been his best friend. It has connected him nearer with virtue than any other feeling. But we are none of us consistent; and in his behaviour to me, there were stronger impulses even than pride.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"It is your turn to say something now, Mr Darcy. I talked about the dance, and you ought to make some kind of remark on the size of the room, or the number of couples.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"We are of each an unsocial, taciturn disposition, unwilling to speak, unless we expect to say something that will amaze the whole room, and be handed down to posterity with all of the eclat of a proverb.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Mr Wickham is blessed with such happy manners as may ensure his making friends-whether he may be equally capable of retaining them, is less certain.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Books-oh! no. I am sure we never read the same, or not with the same feelings.\"\\n\"I am sorry you think so; but if that be the case, there can at least be no want of subject. We may compare our different opinions.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I remember hearing you once say, Mr Darcy, that you hardly ever forgave, that your resentment once created was unappeasable. You are very cautious, I suppose, as to its being created.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"It is particularly incumbent on those who never change their opinion, to be secure of judging properly at first.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"May I ask to what these questions tend?\"\\n\"Merely to the illustration of your character,\" said she, endeavouring to shake off her gravity. \"I am trying to make it out.\"\\n\"And what is your success?\"\\nShe shook her head. \"I do not get on at all. I hear such different accounts of you as puzzle me exceedingly.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I can readily believe,\" answered he gravely, \"that reports may vary greatly with respect to me; and I could wish, Miss Bennet, that you were not to sketch my character at the present moment, as there is reason to fear that the performance would reflect no credit on either.\"\\n\"But if I do not take your likeness now, I may never have another opportunity.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "That will do extremely well, child. You have delighted us long enough. Let the other young ladies have time to exhibit.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I do assure you that I am not one of those young ladies (if such young ladies there are) who are so daring as to risk their happiness on the chance of being asked a second time. I am perfectly serious in my refusal. You could not make me happy, and I am convinced that I am the last woman in the world who could make you so.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Indeed, Mr Collins, all praise of me will be unnecessary. You must give me leave to judge for myself, and pay me the compliment of believing what I say. I wish you very happy and very rich, and by refusing you hand, do all in my power to prevent your being otherwise.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Really, Mr Collins,\" cried Elizabeth with some warmth, \"you puzzle me exceedingly. If what I have hitherto said can appear to you in the form of encouragement, I know not how to express my refusal in such a way as to convince you of its being one.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I do assure you, Sir, that I have no pretension whatever to that kind of elegance which consists in tormenting a respectable man. I would rather be paid the compliment of being believed sincere.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I thank you again and again for the honour you have done me in your proposals, but to accept them is absolutely impossible. My feelings in every respect forbid it. Can I speak plainer? Do not consider me now as an elegant female, intending to plague you, but as a rational creature, speaking the truth from her heart.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "To such perseverance in wilful self-deception, Elizabeth would make no reply, and immediately and in silence withdrew; determined, that if he persisted in considering her repeated refusals as flattering encouragement, to apply to her father, whose negative might be uttered in such a manner as must be decisive, and whose behaviour at least could not be mistaken for the affectation and coquetry of an elegant female.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"An unhappy alternative is before you, Elizabeth. From this day you must be a stranger to one of your parents. Your mother will never see you again if you do not marry Mr Collins, and I will never see you again if you do.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Nobody can tell what I suffer! - But it is always so. Those who do not complain are never pitied.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Resignation is never so perfect as when the blessing denied begins to lose somewhat of its value in our estimation.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Next to being married, a girl likes to be crossed in love a little now and then. It is something to think of, and gives her a sort of distinction among her companions.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"For it gratified him, he said, to discover that Charlotte Lucas, whom he had been used to think tolerably sensible, was as foolish as his wife, and more foolish than his daughter!\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"This is not fair. You wish to think all the world respectable, and are hurt if I speak ill of anybody. I only want to think you perfect, and you set yourself against it. Do not be afraid of my running into any excess, of my encroaching on your privilege of universal good-will.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"My dear Lizzy, do not give way to such feelings as these. They will ruin your happiness. You do not make allowance enough for difference of situation and temper. Consider Mr Collins's respectability, and Charlotte's steady, prudent character.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"My dear Jane, Mr Collins is a conceited, pompous, narrow-minded, silly man; you know he is, as well as I do; and you must feel, as well as I do, that the woman who married him cannot have a proper way of thinking.\"", 
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"We must not be so ready to fancy ourselves intentionally injured. We must not expect a lively young man to be always so guarded and circumspect. It is very often nothing but our own vanity that deceives us. Women fancy admiration means more than it does.\"\\n\"And men take care that they should.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Miss Bennet was the only creature who could suppose there might be any extenuating circumstances in the case, unknown to the society of Hertfordshire; her mild and steady candour always pleaded for allowances, and urged the possibility of mistakes-but by everybody else Mr Darcy was condemned as the worst of men.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"We do not suffer by accident. It does not often happen that the interference of friends will persuade a young man of independent fortune to think no more of a girl whom he was violently in love with only a few days before.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Importance may be sometimes purchased too dearly.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Adieu to disappointment and spleen. What are men to rocks and mountains?\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"And is this all?\" cried Elizabeth. \"I expected at least that the pigs were got into the garden, and here is nothing but Lady Catherine and her daughter...\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I like her appearance,\" said Elizabeth, struck with other ideas. \"She looks sickly and cross. Yes, she will do for him very well. She will make him a very proper wife.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\".... the mere stateliness of money and rank (Elizabeth) thought she could witness without trepidation.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises at every attempt to intimidate me.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "More than once did Elizabeth, in her ramble within the park, unexpectedly meet Mr Darcy. She felt all the perverseness of the mischance that should bring him where no one else was brought, and, to prevent its ever happening again, took care to inform him at first that it was a favourite haunt of hers. How it could occur a second time, therefore, was very odd!",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I do not see what right Mr Darcy had to decide on the propriety of his friend's inclination, or why, upon his own judgement alone, he was to determine and direct in what manner his friend was to be happy. But,\" she continued, recollecting herself, \"as we know none of the particulars, it is not fair to condemn him. It is not to be supposed that there was much affection in the case.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "She was suddenly roused by the sound of the door-bell, and her spirits were a little fluttered by the idea of its being Colonel Fitzwilliam himself, who had once before called late in the evening, and might now come to inquire particularly after her. But this idea was soon banished, and her spirits were very differently affected, when, to her utter amazement, she saw Mr Darcy walk into the room.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "After a silence of several minutes, he came towards her in an agitated manner, and thus began:\\n\"In vain I have struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man's affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till, roused to resentment by his subsequent language, she lost all compassion in anger.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "He concluded with representing to her the strength of that attachment which, in spite of all his endeavours, he had found impossible to conquer; and with expressing his hope that it would now be rewarded by her acceptance of his hand.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "As he said this, she could easily see that he had no doubt of a favourable answer. He spoke of apprehension and anxiety, but his countenance expressed real security. Such a circumstance could only exasperate farther, and, when he ceased, the colour rose into her cheeks.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+	"text"   : "\"In such cases as this, it is, I believe, the established mode to express a sense of obligation for the sentiments avowed, however unequally they may be returned. It is natural that obligation should be felt, and if I could feel gratitude, I would now thank you.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I have never desired your good opinion, and you have certainly bestowed it most unwillingly.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "He was struggling for the appearance of composure, and would not open his lips till he believed himself to have attained it. The pause was to Elizabeth's feelings dreadful.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"And this is all the reply which I am to have the honour of expecting! I might, perhaps, wish to be informed why, with so little endeavour at civility, I am thus rejected. But it is of small importance.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I might as well enquire,\" replied she, \"why with so evident a desire of offending and insulting me, you chose to tell me that you liked me against your will, against your reason, and even against your character?\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"No motive can excuse the unjust and ungenerous part you acted there. You dare not, you cannot deny, that you have been the principal, if not the only means of dividing them from each other-of exposing one to the censure of the world for caprice and instability, and the other to its derision for disappointed hopes, and involving them both in misery of the acutest kind.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I have no wish of denying that I did everything in my power to separate my friend from your sister, or that I rejoice in my success. Towards him I have been kinder than towards myself.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"But it is not merely this affair,\" she continued, \"on which my dislike is founded. Long before it had taken place my opinion of you was decided.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"And this,\" cried Darcy, as he walked with quick steps across the room, \"is your opinion of me! This is the estimation in which you hold me! I thank you for explaining it so fully. My faults, according to this calculation, are heavy indeed!\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+       	"text"   : "\"Could you expect me to rejoice in the inferiority of your connections?-to congratulate myself on the hope of relations, whose condition in life is so decidedly beneath my own?\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Elizabeth felt herself growing more angry every moment; yet she tried to the utmost to speak with composure when she said: \"You are mistaken, Mr Darcy, if you suppose that the mode of your declaration affected me in any other way, than as it spared the concern which I might have felt in refusing you, had you behaved in a more gentlemanlike manner.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+	"text"   : "\"You could not have made the offer of your hand in any possible way that would have tempted me to accept it.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+	"text"   : "\"From the very beginning-from the first moment, I may almost say-of my acquaintance with you, your manners, impressing me with the fullest belief of your arrogance, your conceit, and your selfish disdain of the feelings of others, were such as to form the groundwork of disapprobation on which succeeding events have built so immovable a dislike.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+	"text"   : "\"I had not known you a month before I felt that you were the last man in the world whom I could ever be prevailed on to marry.\" ",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"You have said quite enough, madam. I perfectly comprehend your feelings, and have now only to be ashamed of what my own have been. Forgive me for having taken up so much of your time, and accept my best wishes for your health and happiness.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "The tumult of her mind, was now painfully great. She knew not how to support herself, and from actual weakness sat down and cried for half-an-hour. Her astonishment, as she reflected on what had passed, was increased by every review of it. That she should receive an offer of marriage from Mr Darcy! That he should have been in love with her for so many months!",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+       	"text"   : "His pride, his abominable pride-his shameless avowal of what he had done with respect to Jane-his unpardonable assurance in acknowledging, though he could not justify it, and the unfeeling manner in which he had mentioned Mr Wickham, his cruelty towards whom he had not attempted to deny, soon overcame the pity which the consideration of his attachment had for a moment excited.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Be not alarmed, madam, on receiving this letter, by the apprehension of its containing any repetition of those sentiments or renewal of those offers which were last night so disgusting to you. I write without any intention of paining you, or humbling myself, by dwelling on wishes which, for the happiness of both, cannot be too soon forgotten.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+	"text"   : "\"You must, therefore, pardon the freedom with which I demand your attention; your feelings, I know, will bestow it unwillingly, but I demand it of your justice.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"She read with an eagerness which hardly left her any power of comprehension; and from impatience of knowing what the next sentence might bring, was incapable of attending to the sense of the one before her eyes.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Had I been in love, I could not have been more wretchedly blind. But vanity, not love, has been my folly..... till this moment I never knew myself.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Well, my comfort is, I am sure Jane will die of a broken heart, and then he will be sorry for what he has done.\" (Mrs Bennet)",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"There certainly was some great mismanagement in the education of those two young men. One has got all the goodness, and the other all the appearance of it.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Had Elizabeth's opinion been all drawn from her own family, she could not have formed a very pleasing picture of conjugal felicity or domestic comfort. Her father, captivated by youth and beauty, and that appearance good-humour which youth and beauty generally give, had married a woman whose weak understanding and illiberal mind had very early in their marriage put an end to real affection for her.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Respect, esteem, and confidence had vanished for ever; and all his view of domestic happiness were overthrown. But Mr Bennet was not of a disposition to seek comfort for the disappointment which his own imprudence had brought on in any of those pleasures which too often console the unfortunate for their folly or their vice.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+	"text"   : "He was fond of the country and of books; and from these tastes had arisen his principal enjoyments. To his wife he was very little otherwise indebted than as her ignorance and folly contributed to his amusement. This is not the sort of happiness which a man would in general wish to owe to his wife; but where other powers of entertainment are wanting, the true philosopher will derive benefit from such as are given.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"But that was only when I first knew her, for it is many months since I have considered her as one of the handsomest women of my acquaintance.”",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"When I consider,\" she added, in a yet more agitated voice, \"that I might have prevented it! - I who knew what he was. Had I but explained some part of it only - some part of what I learnt - to my own family! Had his character been known, this could not have happened. But it is all, all too late now.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Loss of virtue in a female is irretrievable; that one false step involves her in endless ruin; that her reputation is no less brittle than it is beautiful; and that she cannot be too much guarded in her behaviour towards the undeserving of the other sex.”",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+
+
+    {
+        "text"   : "\"No, Lizzy, let me once in my life feel how much I have been to blame. I am not afraid of being overpowered by the impression. It will pass away soon enough\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Well, well,\" said he, \"do not make yourself unhappy. If you are a good girl for the next ten years, I will take you to a review at the end of them.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+
+    {
+        "text"   : "Mrs Bennet had no turn for economy; and her husband's love of independence had alone prevented their exceeding their income.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Her heart did whisper that he had done it for her. But it was a hope shortly checked by other considerations, and she soon felt that even her vanity was insufficient, when required to depend on his affection for her-for a woman who had already refused him-as able to overcome a sentiment so natural as abhorrence against relationship with Wickham. Brother-in-law of Wickham!",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "'...there is nothing so bad as parting with one's friends. One seems so forlorn without them.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"If Mr Darcy is neither by honour nor inclination confined to his cousin, why is not he to make another choice? And if I am that choice, why may not I accept him?\"\\n\"Because honour, decorum, prudence, nay, interest, forbid it.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Miss Bennet I am shocked and astonished. I expected to find a more reasonable young woman. But do not deceive yourself into a belief that I will ever recede. I shall not go away till you have given me the assurance I require.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+	"text"   : "\"Your ladyship wants Mr Darcy to marry your daughter; but would my giving you the wished-for promise make their marriage at all more probable? Supposing him to be attached to me, would my refusing to accept his hand make him wish to bestow it on his cousin?\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Allow me to say, Lady Catherine, that the arguments with which you have supported this extraordinary application have been as frivolous as the application was ill-judged. You have widely mistaken my character, if you think I can be worked on by such persuasions as these. How far your nephew might approve of your interference in his affairs, I cannot tell; but you have certainly no right to concern yourself in mine.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"You are then resolved to have him?\"\\n\"I have said no such thing. I am only resolved to act in that manner, which will, in my own opinion, constitute my happiness, without reference to you, or to any person so wholly unconnected with me.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"It is well. You refuse, then, to oblige me. You refuse to obey the claims of duty, honour, and gratitude. You are determined to ruin him in the opinion of all his friends, and make him the contempt of the world.\"\\n\"Neither duty, nor honour, nor gratitude,\" replied Elizabeth, \"have any possible claim on me, in the present instance. No principle of either would be violated by my marriage with Mr Darcy.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"He is a gentleman; I am a gentleman’s daughter; so far we are equal\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Mr Darcy, who never looks at any woman but to see a blemish, and who probably never looked at you in his life! It is admirable!\"\\nElizabeth tried to join in her father's pleasantry, but could only force one most reluctant smile. Never had his wit been directed in a manner so little agreeable to her.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"For what do we live, but to make sport for our neighbours, and laugh at them in our turn?\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Had they fixed on any other man it would have been nothing; but his perfect indifference, and your pointed dislike, make it so delightfully absurd! Much as I abominate writing, I would not give up Mr Collins's correspondence for any consideration.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Elizabeth had never been more at a loss to make her feelings appear what they were not. It was necessary to laugh, when she would rather have cried. Her father had most cruelly mortified her, by what he said of Mr Darcy's indifference, and she could do nothing but wonder at such a want of penetration, or fear that perhaps, instead of his seeing too little, she might have fancied too much.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"You are too generous to trifle with me. If your feelings are still what they were last April, tell me so at once. My affections and wishes are unchanged, but one word from you will silence me on this subject for ever.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Elizabeth, feeling all the more than common awkwardness and anxiety of his situation, now forced herself to speak; and immediately, though not very fluently, gave him to understand that her sentiments had undergone so material a change, since the period to which he alluded, as to make her receive with gratitude and pleasure his present assurances.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "The happiness which this reply produced, was such as he had probably never felt before; and he expressed himself on the occasion as sensibly and as warmly as a man violently in love can be supposed to do. Had Elizabeth been able to encounter his eye, she might have seen how well the expression of heartfelt delight, diffused over his face, became him.",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "Elizabeth coloured and laughed as she replied, \"Yes, you know enough of my frankness to believe me capable of that. After abusing you so abominably to your face, I could have no scruple in abusing you to all your relations.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"You thought me then devoid of every proper feeling, I am sure you did. The turn of your countenance I shall never forget, as you said that I could not have addressed you in any possible way that would induce you to accept me.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"When I wrote that letter,\" replied Darcy, \"I believed myself perfectly calm and cool, but I am since convinced that it was written in a dreadful bitterness of spirit.\"\\n\"The letter, perhaps, began in bitterness, but it did not end so. The adieu is charity itself.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"But think no more of the letter. The feelings of the person who wrote, and the person who received it, are now so widely different from what they were then, that every unpleasant circumstance attending it ought to be forgotten. You must learn some of my philosophy. Think only of the past as its remembrance gives you pleasure.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I cannot give you credit for any philosophy of the kind. Your retrospections must be so totally void of reproach, that the contentment arising from them is not of philosophy, but, what is much better, of innocence. But with me, it is not so. Painful recollections will intrude which cannot, which ought not, to be repelled. I have been a selfish being all my life, in practice, though not in principle.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"As a child I was taught what was right, but I was not taught to correct my temper. I was given good principles, but left to follow them in pride and conceit.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Unfortunately an only son (for many years an only child), I was spoilt by my parents, who, though good themselves (my father, particularly, all that was benevolent and amiable), allowed, encouraged, almost taught me to be selfish and overbearing; to care for none beyond my own family circle; to think meanly of all the rest of the world; to wish at least to think meanly of their sense and worth compared with my own.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Such I was, from eight to eight and twenty; and such I might still have been but for you, dearest, loveliest Elizabeth! What do I not owe you! You taught me a lesson, hard indeed at first, but most advantageous. By you, I was properly humbled. I came to you without a doubt of my reception. You showed me how insufficient were all my pretensions to please a woman worthy of being pleased.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"My object then,\" replied Darcy, \"was to show you, by every civility in my power, that I was not so mean as to resent the past; and I hoped to obtain your forgiveness, to lessen your ill opinion, by letting you see that your reproofs had been attended to. How soon any other wishes introduced themselves I can hardly tell, but I believe in about half an hour after I had seen you.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"There can be no doubt of that. It is settled between us already, that we are to be the happiest couple in the world. But are you pleased, Jane? Shall you like to have such a brother?\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"Will you tell me how long you have loved him?\"\n\"It has been coming on so gradually, that I hardly know when it began. But I believe I must date it from my first seeing his beautiful grounds at Pemberley.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "\"I cannot fix on the hour, or the look, or the words, which laid the foundation. It is too long ago. I was in the middle before I knew that I had begun.\"",
+        "author" : "Jane Austen",
+        "title"  : "Pride and Prejudice"
+    },
+    {
+        "text"   : "They gave themselves up wholly to their sorrow, seeking increase of wretchedness in every reflection that could afford it, and resolved against ever admitting consolation in future.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "No sooner was his father's funeral over, than Mrs John Dashwood, without sending any notice of her intention to her mother-in-law, arrived with her child and their attendants.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "He was not an ill-disposed young man, unless to be rather cold hearted, and rather selfish, is to be ill-disposed.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "People always live for ever when there is an annuity to be paid them.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "He was not handsome, and his manners required intimacy to make them pleasing. He was too diffident to do justice to himself; but when his natural shyness was overcome, his behaviour gave every indication of an open, affectionate heart.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Brandon is just the kind of man whom everybody speaks well of, and nobody cares about; whom all are delighted to see, and nobody remembers to talk to.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+	"text"   : "Yet there is something so amiable in the prejudices of a young mind, that one is sorry to see them give way to the reception of more general opinions.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Yet there is something so amiable in the prejudices of a young mind, that one is sorry to see them give way to the reception of more general opinions.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "The idea however started by her, was immediately pursued by Colonel Brandon, who was on every occasion mindful of the feelings of others; and much was said on the subject of rain by both of them.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "To hear those beautiful lines which have frequently almost driven me wild, pronounced with such impenetrable calmness, such dreadful indifference!",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "The pleasantness of an employment does not always evince its propriety.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Marianne would have thought herself very inexcusable had she been able to sleep at all the first night after parting from Willoughby.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "I never wish to offend, but I am so foolishly shy, that I often seem negligent, when I am only kept back by my natural awkwardness.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+	"text"   : "Shyness is only the effect of a sense of inferiority in some way or other. If I could persuade myself that my manners were perfectly easy and graceful, I should not be shy.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Know your own happiness. You want nothing but patience; or give it a more fascinating name: call it hope.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Fortunately for those who pay their court through such foibles, a fond mother, though, in pursuit of praise for her children, the most rapacious of human beings, is likewise the most credulous; her demands are exorbitant; but she will swallow any thing...",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "As it was impossible however now to prevent their coming, Lady Middleton resigned herself to the idea of it, with all the philosophy of a well bred woman, contenting herself with merely giving her husband a gentle reprimand on the subject five or six times every day.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Sir John would not hear of their going; and in spite of their numerous and long arranged engagements in Exeter, in spite of the absolute necessity of returning to fulfill them immediately, which was in full force at the end of every week, they were prevailed on to stay nearly two months at the park.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Sir John was delighted; for to a man, whose prevailing anxiety was the dread of being alone, the acquisition of two, to the number of inhabitants in London, was something.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "His own enjoyment, or his own ease, was, in every particular, his ruling principle.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Her mind did become settled, but it was settled in a gloomy dejection. She felt the loss of Willoughby's character yet more heavily than she had felt the loss of his heart...",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "There was a kind of cold hearted selfishness on both sides, which mutually attracted them; and they sympathised with each other in an insipid propriety of demeanour, and a general want of understanding.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "No poverty of any kind, except of conversation, appeared – but there, the deficiency was considerable.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "With such encouragement as this, was she dismissed on the present occasion, to her brother's carriage; which they were ready to enter five minutes after it stopped at the door, a punctuality not very agreeable to their sister-in-law, who had preceded them to the house of her acquaintance, and was there hoping for some delay on their part that might inconvenience either herself or her coachman.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Elinor agreed with it all, for she did not think he deserved the compliment of rational opposition.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "Elinor was to be the comforter of others in her own distresses, no less than in theirs; and all the comfort that could be given by assurances of her own composure of mind, and a very earnest vindication of Edward from every charge but of imprudence, was readily offered.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "I did not THEN know what it was to love. But have I ever known it?—Well may it be doubted; for, had I really loved, could I have sacrificed my feelings to vanity, to avarice?",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "His own enjoyment, or his own ease, was, in every particular, his ruling principle.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "I suppose you know, ma'am, that Mr Ferrars is married.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    },
+    {
+        "text"   : "The whole of Lucy's behaviour in the affair, and the prosperity which crowned it, therefore, may be held forth as a most encouraging instance of what an earnest, an unceasing attention to self-interest, however its progress may be apparently obstructed, will do in securing every advantage of fortune, with no other sacrifice than that of time and conscience.",
+        "author" : "Jane Austen",
+        "title"  : "Sense And Sensibility"
+    }
+] }
