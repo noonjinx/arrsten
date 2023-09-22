@@ -14,12 +14,19 @@ DEFAULT_QUOTE = {
     "title"  : "Lack Of Testing"
 }
  
+MAX_LENGTH = 500
+
+QUOTES_FILE = "data/quotes.json"
+
 # Parse command line arguments
 
-parser = argparse.ArgumentParser(description="Quote Like A Pirate",
-                                 formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+parser = argparse.ArgumentParser(description="Quote Like A Pirate", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+parser.add_argument("-t", "--text", help="process the specified text")
+parser.add_argument("-s", "--search", help="search for the quote")
 parser.add_argument("-d", "--debug", action="store_true", help="debug mode (show original quote)")
-parser.add_argument("-t", "--toot", action="store_true", help="toot the quote")
+parser.add_argument("-q", "--quiet", action="store_true", help="quiet mode (supress hashtags)")
+parser.add_argument("-p", "--post", action="store_true", help="post the quote")
+
 args = parser.parse_args()
 config = vars(args)
 
@@ -54,10 +61,12 @@ class Arrsten:
     phrases.append("All hands on deck")
     phrases.append("Avast you")
     phrases.append("Avast behind")
+    phrases.append("Belay there")
     phrases.append("Sink me")
     phrases.append("Blast my binnacle")
     phrases.append("Swash my buckle")
     phrases.append("Powder my monkey")
+    phrases.append("Tie my tiller down")
     phrases.append("Batten down the hatches")
     phrases.append("Blow the man down")
     phrases.append("Feed the fish")
@@ -101,8 +110,44 @@ class Arrsten:
     phrases.append("Free the lines")
     phrases.append("Square the yards")
     phrases.append("On a Westward wind")
+    phrases.append("Scrape my keel")
+    phrases.append("There is red port left")
+    phrases.append("Abaft the beam")
+    phrases.append("No! my Starboard")
+    phrases.append("Weevilly biscuits")
+    phrases.append("Marque my letter")
     phrases.append("Bones and beaches")
     phrases.append("Up the mizzen")
+    phrases.append("Loose the halliards")
+    phrases.append("Under the flag of bones")
+    phrases.append("Glug my grog")
+    phrases.append("Anchor's aweigh")
+    phrases.append("Plunder my booty")
+    phrases.append("Up the mizzen")
+    phrases.append("Move fast and break stuff")
+    phrases.append("Beware the zombie scrum")
+    phrases.append("Wrinkle my baggies")
+    phrases.append("Balls to four watch")
+    phrases.append("Beat that quarter")
+    phrases.append("Wind and water")
+    phrases.append("Bilged on her anchor")
+    phrases.append("A bitter end")
+    phrases.append("Tighten the boom vang")
+    phrases.append("Brace for a broadside")
+    phrases.append("Taste the cat")
+    phrases.append("Caulk my planks")
+    phrases.append("Truss up the clews")
+    phrases.append("Hitch my cloves")
+    phrases.append("Timber my horn")
+    phrases.append("Up Jacob's ladder")
+    phrases.append("Widen your joggle and nib")
+    phrases.append("I'll be keelhauled")
+    phrases.append("Kiss the gunner's daughter")
+    phrases.append("Up the lubber's hole")
+    phrases.append("Man overboard")
+    phrases.append("Run before the wind")
+    phrases.append("Swigging the rigging")
+    phrases.append("Warm the bell")
 
     regular_verbs = [
         "accept",
@@ -275,24 +320,57 @@ class Arrsten:
 
     infixes = {}
     infixes["([^acegiopstw])h"] = "\\1\'"
+    infixes["knowledge"] = "knarledge"
     
+    # Try in vain to cleanup bad sentence splitting
+
+    def clean_text(self, text):
+
+        work = text
+
+        # Get rid of duplicate white space
+
+        work = re.sub('\s+',' ',work)
+
+        # Hacks to try in vain to tidy up bad sentence splitting around double quotes
+
+        # Handle... Oh Sir Percy!" she exclaimed... by adding a " at the start
+
+        work = re.sub( r'^([^"]+)"\s+', r'"\1" ', work )
+
+        # Handle... she exclaimed, "Oh Sir Percy!... by adding a " at the end
+
+        work = re.sub( r'\s+"([^"]+)$', r' "\1" ', work )
+
+        # If there are still an odd number of double quotes, add another at start or end
+
+        if work.count('"')%2 == 1:
+            if work.endswith('"'):
+                work = '"'+work
+            else:
+                work = work+'"'
+
+        return work
+
     # Translate a line of text into pirate speak
 
     def translate(self, text):
 
         work = text
 
-        # "I ask" becomes "I do ask"
+        # Translate verbs
+
+        # "I ask" becomes "I do ask" etc
 
         for verb in self.regular_verbs:
             work = re.sub(r'\b(I|you|we)\s+('+verb+r')\b', r'\1 do '+DELIMITER+r'\2'+DELIMITER, work, flags=re.IGNORECASE)
         
-        # "He asks" becomes "He do ask"
+        # "He asks" becomes "He do ask" etc
 
         for verb in self.regular_verbs:
             work = re.sub(r'\b(he|she|one)\s('+verb+r')s\b', r'\1 do '+DELIMITER+r'\2'+DELIMITER, work, flags=re.IGNORECASE)
         
-        # "I asked" become "I did ask"
+        # "I asked" become "I did ask" etc
 
         for verb in self.regular_verbs:
             work = re.sub(r'\b(I|you|we|he|she|one|they)\s+('+verb+r')d\b', r'\1 did '+DELIMITER+r'\2'+DELIMITER, work, flags=re.IGNORECASE)
@@ -333,22 +411,40 @@ class Arrsten:
 
         return work
 
+    # Add a piratey phrase at start or end of text
+
     def add_phrase(self, text):
 
         work = text
 
-        # Add a piratey phrase at start or end
+        # Pick a random piratey phrase
 
         phrase = random.choice(self.phrases)
+
+        # Decide where to put it (0=start, 1=end) but if possible put it
+        # inside double quotes as it's funnier if a character is saying it
+
         choice = random.randint(0,1)
-        if ( choice == 0):
-            if ( work.startswith('"')):
-                work = '"'+phrase+'! '+work[1:]
+        choice = 1
+        if choice == 0:
+
+            # If text includes the start of a quote - eg. "Something
+
+            if re.match( r'^[^"]*"\S', work ):
+                i = work.find('"')
+                work = work[:i+1]+phrase+"! "+work[i+1:]
             else:
                 work = phrase+'! '+work;
+
         else:
-            if ( work.endswith('"')):
-                work = work[:-1]+' '+phrase+'!"';
+
+            # If text includes the end of a quote - eg. Something."
+            if work.rfind(',"') >= 0:
+                i = work.rfind(',"')
+                work = work[:i+1]+' '+phrase.lower()+"!"+work[i+1:]
+            elif work.rfind('"') >= 0:
+                i = work.rfind('"')
+                work = work[:i]+' '+phrase+"!"+work[i:]
             else:
                 work = work+' '+phrase+'!';
 
@@ -356,126 +452,133 @@ class Arrsten:
     
     def add_hashtags(self, text, author, title):
         
-        # Add hashtags
+        # Add hashtags (or simple attribution if running in quiet mode)
 
         work = text
 
-        author = '#'+re.sub(r'\W+', '',string.capwords(author))
-        title = '#'+re.sub(r'\W+', '',string.capwords(title))
-        work = work+'\n\n'+author+' '+title
-
+        if config["quiet"]:
+            author = string.capwords(author)
+            title = string.capwords(title)
+            work = work+'\n\n'+author+', "'+title+'"'
+        else:
+            author = '#'+re.sub(r'\W+', '',string.capwords(author))
+            title = '#'+re.sub(r'\W+', '',string.capwords(title))
+            work = work+'\n\n'+author+' '+title+' '+'#TalkLikeAPirate'
+        
         return work
+
+    # Read quotes file
+
+    def read_quotes_file(self):
+
+        f = open(QUOTES_FILE)
+        data = json.load(f)
+        quotes = data['quotes']
+        f.close()
+
+        return quotes
+
+    # Select quote from data files or from input
 
     def select_quote(self):
 
         quote = DEFAULT_QUOTE
 
-        choice = random.randint(0,3)
+        if config["text"]:
 
-        if (choice == 0):
+            # Use command line text if it was supplied
 
-            if(config["debug"]):
-                print("DEBUG: Reading from data file")
+            quote["text"] = config["text"]
 
-            # Read data file  ``
+        elif config["search"]:
 
-            f = open('data/quotes.json')
-            data = json.load(f)
-            quotes = data['quotes']
-            f.close()
+            # Search for text if it was requested
 
-            # Pick quote at random
-
-            quote = random.choice(quotes)
-            if ( config["debug"]):
-                print("DEBUG: Text = '"+quote["text"]+"'")
+            quotes = self.read_quotes_file()
+            
+            for candidate in quotes:
+                if re.search(config["search"], candidate["text"], re.IGNORECASE):
+                    quote = candidate
 
         else:
 
-            # Choose random novel
+            choice = random.randint(0,3)
 
-            novel = random.choice(self.novels)
+            if choice == 0:
 
-            if(config["debug"]):
-                print("DEBUG: Reading from novel: "+novel["title"])
+                # Read qoutes file and make a random choice
 
-            # Split novel into sentences
+                quotes = self.read_quotes_file()
+                quote = random.choice(quotes)
 
-            tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-            fp = open("data/"+novel["file"])
-            data = fp.read()
-            tokens = tokenizer.tokenize(data)
+            else:
 
-            # Pick random token
-            # Try a few times if it too short or too long or doesnt translate well
+                # Choose random novel
 
-            text = random.choice(tokens)
-            text = re.sub('\n+', ' ', text)
-            work = self.translate(text)
-            for x in range(500):
-                if ( config["debug"]):
-                    print("DEBUG: Text = '"+text+"'")
-                bad = False
-                if ( len(text) < 30 ):
-                    if ( config["debug"]):
-                        print("DEBUG: Text was too short")
-                    bad = True
-                if ( len(text) > 450 ):
-                    if ( config["debug"]):
-                        print("DEBUG: Text was too long")
-                    bad = True
-                if ( text == work ):
-                    if ( config["debug"]):
-                        print("DEBUG: Translation was too boring")
-                    bad = True
-                if ( bad ):
-                    text = random.choice(tokens)
-                    text = re.sub('\n+', ' ', text)
-                    work = self.translate(text)
-                else:
-                    break
+                novel = random.choice(self.novels)
 
-            # Hack to handle tokenizer splitting without checking " characters
+                # Read novel
 
-            if(text.count('"')%2 == 1):
-                if(text.endswith('"')):
-                    text = '"'+text
-                else:
-                    text = text+'"'
+                f = open("data/"+novel["file"])
+                data = f.read()
+                f.close()
 
-            # Create quote structure
+                # Split novel into sentences
 
-            quote = {
-                "text"   : text,
-                "author" : novel["author"],
-                "title"  : novel["title"]
-            }
+                tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+                tokens = tokenizer.tokenize(data)
+
+                # Pick random token
+                # Try a few times if it too short or too long or doesnt translate well
+
+                text = random.choice(tokens)
+                work = self.translate(text)
+                for x in range(MAX_LENGTH):
+                    bad = False
+                    if len(text) < 30:
+                        bad = True
+                    if len(text) > MAX_LENGTH - 50:
+                        bad = True
+                    if text == work:
+                        bad = True
+                    if bad:
+                        text = random.choice(tokens)
+                        text = re.sub('\n+', ' ', text)
+                        work = self.translate(text)
+                    else:
+                        break
+
+                # Create quote structure
+
+                quote = {
+                    "text"   : text,
+                    "author" : novel["author"],
+                    "title"  : novel["title"]
+                }
         
         return quote
+    
+    # Clean up quote, add a piratey phrase and translate the whole thing
     
     def process_quote(self, quote):
 
         work = quote["text"]
-        if ( config["debug"]):
-            print("DEBUG: Text = '"+work+"'")
+
+        # Clean up the text, ballancing quotes etc
+
+        work = self.clean_text(work)
 
         # Add piratey phrases
 
         work = self.add_phrase(work)
-        if ( config["debug"]):
-            print("DEBUG: With phrase = '"+work+"'")
 
         # Translate
 
         work = self.translate(work)
-        if ( config["debug"]):
-            print("DEBUG: Translated = '"+work+"'")
 
         # Add hashtags
 
         work = self.add_hashtags(work, quote["author"], quote["title"])
-        if ( config["debug"]):
-            print("DEBUG: With hashtags = '"+work+"'")
 
         # Return result
 
@@ -487,27 +590,34 @@ class Arrsten:
 
     def run(self):
 
+        # Select a random quote and process it
+
         original = self.select_quote()
         processed = self.process_quote(original)
 
-        # Try a few times if result is too long
+        # Try a few more times if result is too long
+
         for y in range(10):
-            if ( len(processed["text"]) > 500):
-                if ( config["debug"] ):
-                    print("DEBUG: Result was too long")
+            if len(processed["text"]) > MAX_LENGTH:
                 original = self.select_quote()
                 processed = self.process_quote(original)
 
-        if ( len(processed["text"]) > 500):
+        # Give up if length is still too big
+
+        if len(processed["text"]) > MAX_LENGTH:
             processed = DEFAULT_QUOTE
 
         print( processed["text"] )
 
-        if( config["toot"] ):
+        # Post result to mastodon if requested
+
+        if config["post"]:
+
             mastodon = Mastodon(
                 access_token = 'token.secret',
                 api_base_url = 'https://botsin.space/'
             )
+
             mastodon.status_post(processed["text"])
 
 # Instantiate class and run it
